@@ -1,2 +1,2 @@
 # tinyml_tp
-this is my first readme file.
+TinyML Application Development with Arduino Nano BLE 33 and Edge Impulse.
