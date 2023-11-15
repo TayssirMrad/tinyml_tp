@@ -21,5 +21,5 @@ Step 3: Implementing the Quiz
 1)Display a welcome message when the board is connected.
 2)Pose three questions via the serial port and wait for the user to make the "Yes (✓)" or "No (X)" gesture.
 3)Gesture Detection
-
+(https://github.com/TayssirMrad/tinyml_tp/blob/main/ProjetA/resultat_terminal.png) 
 
