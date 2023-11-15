@@ -22,4 +22,4 @@ Step 3: Implementing the Quiz
 2)Pose three questions via the serial port and wait for the user to make the "Yes (✓)" or "No (X)" gesture.
 3)Gesture Detection
 (https://github.com/TayssirMrad/tinyml_tp/blob/main/ProjetA/resultat_terminal.png) 
-
+![resultat_terminal](https://github.com/TayssirMrad/tinyml_tp/assets/60198040/b2954441-4ce0-4893-9ae1-01de2a163264) 
